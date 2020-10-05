@@ -1,3 +1,9 @@
+# Pemrograman Berbasis Objek
 
-# Praktikum
- • File praktikum
+# Dosen : Nanang F.Rozi
+
+ • Nama : Surya Septaeki Wibawa
+
+ • NPM  : 06.2019.1.07236
+
+ • Kelas: V
